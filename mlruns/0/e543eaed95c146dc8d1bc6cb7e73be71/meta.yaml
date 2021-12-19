@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/natal/PycharmProjects/mio_lab_8/mlruns/0/e543eaed95c146dc8d1bc6cb7e73be71/artifacts
+end_time: 1639939449472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e543eaed95c146dc8d1bc6cb7e73be71
+run_uuid: e543eaed95c146dc8d1bc6cb7e73be71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1639939449373
+status: 3
+tags: []
+user_id: natal
